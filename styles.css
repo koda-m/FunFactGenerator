@@ -1,0 +1,52 @@
+body {
+    font-family: "Poppins", sans-serif;
+	text-align: center;
+    background-color: #6c5b7b;
+    padding: 10%;
+}
+
+.container {
+    background-color: #c06c84;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 60%;
+    margin: auto;
+}
+
+button {
+    font-family: "Poppins", sans-serif;
+	font-weight: bold;
+	background-color: #355c7d;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #f8b195;
+	color: black;
+	font-weight: bold;
+}
+
+#fact {
+	font-weight: bold;
+}
+
+.emoji {
+	font-size: 2em;
+}
+
+.favicon-credit {
+	color: #363737;
+	position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.favicon-credit a {
+	color: #363737;
+}
