@@ -18,8 +18,8 @@ const funFacts = [
     "The dot over the lowercase letters 'i' and 'j' is called a 'tittle.'",
     "There’s an island in Japan called Okunoshima that is home to hundreds of friendly, free-roaming rabbits.",
     "A jellyfish is about 95% water and has no brain, heart, or bones.",
-    "There is a species of lizard called the basilisk lizard that can run on water, earning it the nickname ‘Jesus Christ lizard.’"
-	"Honey never spoils—you could eat 3,000-year-old honey!",
+    "There is a species of lizard called the basilisk lizard that can run on water, earning it the nickname ‘Jesus Christ lizard.’",
+    "Honey never spoils—you could eat 3,000-year-old honey!",
     "A group of flamingos is called a 'flamboyance.'",
     "A bolt of lightning is five times hotter than the surface of the sun.",
     "The Eiffel Tower can grow taller in the summer due to heat expansion.",
